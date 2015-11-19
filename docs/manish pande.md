@@ -1,3 +1,4 @@
 ### Manish Pande
 
-**Name**
+**Name:** Manish
+**Favorite Color:** Red
